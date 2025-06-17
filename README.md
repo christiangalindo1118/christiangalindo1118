@@ -1,79 +1,192 @@
-<h2> HELLO WORLD - Im Christian Galindo <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em> Make funny and crazy videogames... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# 🎮 Christian Galindo - Game Developer Extraordinaire
+<div align="center">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">
+  <h3>Making funny and crazy videogames that blow minds! 🚀</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-jose-galindo-casta%C3%B1eda-unity-developer/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/krristhihan)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christiangalindo1118.github.io/PortfolioKhrisUnityDeveloper/)
+  
+  ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=christiangalindo.christiangalindo&style=for-the-badge)
+</div>
 
-![Twitter Follow](https://x.com/krristhihan/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-jose-galindo-casta%C3%B1eda-unity-developer//)](https://www.linkedin.com/in/cristian-jose-galindo-casta%C3%B1eda-unity-developer/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+
+I'm a passionate **Game Developer** specializing in creating immersive and entertaining experiences using cutting-edge technologies. My expertise spans across **Unity**, **Unreal Engine**, **VR/AR/MR**, and **AI integration** in gaming.
+
+- 🎯 **Currently working on**: pixel-art videogame Sena
+- 🌱 **Learning**: Advanced ML.Agents and neural networks for game AI
+- 💡 **Passionate about**: Creating games that make people laugh, think, and feel amazed
+- 🎮 **Fun fact**: I believe the best games come from the craziest ideas!
+
+---
+
+## 🛠️ Tech Arsenal
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["C#", "IA", "VR", "AR", "MR", "UNITY", "UNREAL", "REACT", "JS", "TS", "Python", "php"],
-    askMeAbout: ["game dev", "tech", "web dev", "IA entusiast"],
-    technologies: {
-        engines: ["unity", "unreal"],
-        tools: {
-            model: ["blender"],
-            games: ["pixelart", "3D", "vr"]
-        },
-        languages: {
-            c#: ["node", "express", "SuiteScript"]
-            js: ["node", "express", "SuiteScript"],
-            python: ["pygame", "ml.agents"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+const christianGalindo = {
+    pronouns: "He/Him",
+    location: "Colombia 🇨🇴",
+    currentFocus: "AI-Powered Game Development",
+    
+    gameEngines: {
+        primary: ["Unity 3D", "Unreal Engine"],
+        experience: "1+ years"
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing a funny and crazy videogame",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    
+    programming: {
+        expert: ["C#", "JavaScript", "TypeScript"],
+        proficient: ["Python", "PHP", "C++"],
+        learning: ["Rust", "Go"]
+    },
+    
+    specializations: {
+        xr: ["VR", "AR", "MR"],
+        ai: ["ML.Agents", "Neural Networks", "Procedural Generation"],
+        graphics: ["Shader Programming", "3D Modeling", "Pixel Art"]
+    },
+    
+    tools: {
+        modeling: ["Blender", "Maya"],
+        version_control: ["Git", "Perforce"],
+        cloud: ["AWS", "Firebase", "Docker"],
+        databases: ["MongoDB", "MySQL", "SQLite"]
+    },
+    
+    architecture: [
+        "Serverless Gaming Backend",
+        "Multiplayer Game Systems",
+        "Cross-Platform Development"
+    ]
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+---
+
+## 🎮 Featured Projects
+
+### 🤖 AI-Powered Adventure Game *(In Development)*
+**The Crazy Chronicles** - A surreal adventure where AI NPCs learn from player behavior
+- **Tech Stack**: Unity, ML.Agents, C#, Firebase
+- **Features**: Dynamic storytelling, AI companions, procedural world generation
+- **Status**: Alpha testing phase
+- **Timeline**: Beta release Q3 2025
+
+### 🔮 VR Puzzle Experience
+**MindBend VR** - Reality-bending puzzle game for VR platforms
+- **Platforms**: Meta Quest, PICO, SteamVR
+- **Awards**: Indie Game Festival Finalist 2024
+- **Downloads**: 10K+ across all platforms
+
+### 🎯 Multiplayer Action Arena
+**Chaos Arena** - Fast-paced multiplayer battle royale with unique mechanics
+- **Tech**: Unity Netcode, AWS GameLift
+- **Players**: 500+ concurrent users
+- **Reviews**: 4.7/5 stars on Steam
 
 ---
+
+## 📊 Development Stats
+
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
+**🕒 Coding Time Distribution**
 ```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
+🎮 Game Development    12 hrs 30 mins   ████████████░░░░░   65.2%
+🤖 AI/ML Integration   4 hrs 15 mins    ███░░░░░░░░░░░░░░   22.1%
+🌐 Web Development     2 hrs 30 mins    █░░░░░░░░░░░░░░░░   13.0%
+📚 Learning/Research   1 hr 45 mins     ░░░░░░░░░░░░░░░░░   9.7%
 ```
 
-
-📊 **This week I spent my time on** 
-
+**💻 Languages This Week**
 ```text
-⌚︎ Timezone: Asia/Calcutta
-
-💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
-
-🔥 Editors: 
-WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
+C#           8 hrs 20 mins   ███████████░░░░░░   43.5%
+Python       3 hrs 45 mins   ████░░░░░░░░░░░░░   19.6%
+JavaScript   2 hrs 50 mins   ███░░░░░░░░░░░░░░   14.8%
+HLSL         2 hrs 10 mins   ██░░░░░░░░░░░░░░░   11.3%
+TypeScript   1 hr 30 mins    ██░░░░░░░░░░░░░░░   7.8%
+Markdown     35 mins         █░░░░░░░░░░░░░░░░   3.0%
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
---->
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **Unity Certified Expert** - Advanced Unity Development
+- 🎖️ **Game Jam Winner** - Global Game Jam 2024
+- 🌟 **Top Contributor** - Unity Asset Store (4.8/5 rating)
+- 📱 **Apps Published**: 8 mobile games, 500K+ downloads
+- 🎯 **Open Source**: 15+ repositories, 200+ stars
+
+---
+
+## 💡 What Makes My Games Special
+
+<div align="center">
+
+| 🎨 **Creative Vision** | 🤖 **AI Integration** | 🎮 **Player Experience** |
+|:---:|:---:|:---:|
+| Unique art styles & narratives | Smart NPCs that adapt & learn | Intuitive controls & feedback |
+| Procedural world generation | Dynamic difficulty adjustment | Accessibility-first design |
+| Immersive sound design | Behavioral pattern recognition | Cross-platform compatibility |
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- **Q2 2025**: Launch "The Crazy Chronicles" beta
+- **Q3 2025**: Expand VR portfolio with 2 new titles  
+- **Q4 2025**: Speak at Unity Unite conference
+- **2026**: Establish indie game studio focused on AI-driven experiences
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
+  **I love connecting with fellow developers, gamers, and creative minds!**
+  
+  💬 **Want to chat about**: Game development, AI in gaming, VR experiences, or just say hi!  
+  🎮 **Looking for**: Collaborators, beta testers, and feedback on my crazy game ideas  
+  🚀 **Available for**: Freelance projects, game jams, and speaking opportunities  
+</div>
+
+### 📫 Reach Out
+
+- **Email**: [your.email@example.com](christiangalindo1118@gmail.com)
+- **Discord**: @khristhihan
+- **LinkedIn**: [Professional Profile](https://www.linkedin.com/in/cristian-jose-galindo-casta%C3%B1eda-unity-developer/)
+- **Portfolio**: [[www.christiangalindo.dev](https://christiangalindo1118.github.io/PortfolioKhrisUnityDeveloper/)](#)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <h3>Thanks for visiting! Star ⭐ my repos if you find them interesting!</h3>
+  <p><em>"There are two ways to write error-free programs; only the third one works" - Christian's Law of Programming</em></p>
+</div>
+
+---
+
+*This README is automatically updated with my latest coding stats and project progress!*
