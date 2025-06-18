@@ -116,11 +116,11 @@ Markdown     35 mins         █░░░░░░░░░░░░░░░░
 
 ## 🏆 Achievements & Recognition
 
-- 🥇 **Unity Certified Expert** - Advanced Unity Development
-- 🎖️ **Game Jam Winner** - Global Game Jam 2024
-- 🌟 **Top Contributor** - Unity Asset Store (4.8/5 rating)
-- 📱 **Apps Published**: 8 mobile games, 500K+ downloads
-- 🎯 **Open Source**: 15+ repositories, 200+ stars
+- 🥇 **Unity developer generation** - Advanced Unity Development
+- 🎖️ **Game Jam participant** - cococode Game Jam 2025
+- 🌟 **Top Contributor** - sena videogames program
+- 📱 **Apps Published**: 1 mobile games, beta
+- 🎯 **Open Source**: 10 repositories, 10+ stars
 
 ---
 
@@ -174,10 +174,10 @@ Markdown     35 mins         █░░░░░░░░░░░░░░░░
 
 ### 📫 Reach Out
 
-- **Email**: [your.email@example.com](christiangalindo1118@gmail.com)
+- **Email**: [christiangalindo1118@gmail.com]
 - **Discord**: @khristhihan
-- **LinkedIn**: [Professional Profile](https://www.linkedin.com/in/cristian-jose-galindo-casta%C3%B1eda-unity-developer/)
-- **Portfolio**: [[www.christiangalindo.dev](https://christiangalindo1118.github.io/PortfolioKhrisUnityDeveloper/)](#)
+- **LinkedIn**: [christiangalindo1118@gmail.com]
+- **Portfolio**: [[[www.christiangalindo.dev](https://christiangalindo1118.github.io/PortfolioKhrisUnityDeveloper/))](#)
 
 ---
 
