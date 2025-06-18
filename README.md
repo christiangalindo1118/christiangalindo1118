@@ -176,8 +176,8 @@ Markdown     35 mins         █░░░░░░░░░░░░░░░░
 
 - **Email**: [christiangalindo1118@gmail.com]
 - **Discord**: @khristhihan
-- **LinkedIn**: [christiangalindo1118@gmail.com]
-- **Portfolio**: [[[www.christiangalindo.dev](https://christiangalindo1118.github.io/PortfolioKhrisUnityDeveloper/))](#)
+- **LinkedIn**: [https://www.linkedin.com/in/cristian-jose-galindo-casta%C3%B1eda-unity-developer/]
+- **Portfolio**: [https://christiangalindo1118.github.io/PortfolioKhrisUnityDeveloper/]
 
 ---
 
